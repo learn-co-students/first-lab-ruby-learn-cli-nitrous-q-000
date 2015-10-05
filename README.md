@@ -16,7 +16,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 SCREENSHOT
 
-After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and clone it to your container. 
+After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and cloning it to your container. 
 
 SCREENSHOT
 
