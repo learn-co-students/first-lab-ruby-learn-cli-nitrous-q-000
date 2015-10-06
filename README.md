@@ -14,21 +14,21 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 1. Click on the "Open" link on the lab toolbar above.
 
-SCREENSHOT
+![Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
 After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and clone it to your container. 
 
-SCREENSHOT
+![new-tab](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_in_new_tab.png)
 
 2. After the lab is opened, your Nitrous console should already be in the lab's directory. You may need to click through the file 1 or 2 levels deep to find the labs' files in the "labs" directory.
 
-SCREENSHOT
+![ready-work](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_full_view_at_lab_start.png)
 
 This setup—your console open in the lab's directory and the lab directory open in the file browser—that's the state you want to be in when working on a lab on Learn. It means you're ready.
 
 3. In the console, run the test suite by typing `learn` and hitting enter. You'll see something simlar to:
 
-SCREENSHOT
+![lab-fail](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
 
 You can see your test is currently failing, which is fine, we haven't done any work yet, so it makes sense.
 
@@ -40,10 +40,10 @@ You can open `edit-me.txt` and you'll see it is currently empty. Add anything to
 
 You can also pass this lab by creating a new file. From your console, you can run `touch new-file` to create a new file. If a new file is added to this lab, when you run `learn`, your tests should pass.
 
-SCREENSHOT
+![lab-success](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_success.png)
 
 5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-SCREENSHOT
+![learn-submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit.png)
 
 You should see this lab pass on Learn.co. Congratulations! You've just solve your first lab. 
