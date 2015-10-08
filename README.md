@@ -16,7 +16,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 ![Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
-After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and clone it to your container. 
+After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and cloning it to your container. 
 
 ![new-tab](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_in_new_tab.png)
 
