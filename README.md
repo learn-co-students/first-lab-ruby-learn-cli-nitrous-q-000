@@ -47,3 +47,5 @@ You can also pass this lab by creating a new file. From your console, you can ru
 ![learn-submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit.png)
 
 You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
+
+<a href='https://learn.co/lessons/first-lab-ruby-learn-cli-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
